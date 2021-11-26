@@ -1,0 +1,6 @@
+
+Snake id: snake1. Snake name: mamba. Snake type: megane. Owner of the snake: None.
+Snake id: m. Snake name: d. Snake type: mamba. Owner of the snake: None.
+Snake id: Snake1. Snake name: Megane. Snake type: Mamba. Owner of the snake: None.
+Snake id: Mamba. Snake name: Megane. Snake type: Mamba. Owner of the snake: None.
+Snake id: snake. Snake name: snake. Snake type: mamba. Owner of the snake: None.
